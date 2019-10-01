@@ -1,3 +1,7 @@
+UPDATE 01/10/2019:
+  - Performed some little modifications to the main file of the package 
+
+
 #This is a little SRS application really easy to use. Its goal is help you to study and remember a large amount of words. It's free and open source.
 
 #You can set it via python console or through the __main__ file, maybe to set a list of instructions the application will have to do nextly. 
