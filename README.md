@@ -2,6 +2,10 @@ UPDATE 01/10/2019:
   - Performed some little modifications to the main file of the package 
 
 
+Setup:
+  - To install the module, the only available way is to copy the entire folder in the site-packages folder of the Python directory.
+    A future update has been scheduled to allow the installation of the module via pip too
+
 #This is a little SRS application really easy to use. Its goal is help you to study and remember a large amount of words. It's free and open source.
 
 #You can set it via python console or through the __main__ file, maybe to set a list of instructions the application will have to do nextly. 
@@ -19,4 +23,4 @@ UPDATE 01/10/2019:
 # 6 - start(topic) -- it allows you to start the SRS session. It returns void
 # 7 - __update -- it's need to correctly write the data on the file. **
 
-#**IMPORTANT: THIS METHODS ARE STRONGLY PRIVATE AND SHOULD NEVER BE USED BY USERS
+#**IMPORTANT: THESE METHODS ARE STRONGLY PRIVATE AND SHOULD NEVER BE USED BY USERS
